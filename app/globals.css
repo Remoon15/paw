@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@800&family=League+Spartan:wght@300;800&family=Quicksand:wght@300;500;700&family=Righteous&display=swap");
+
+html {
+    background-color: #1a2130;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  h1,
+  h2,
+  h3 {
+    font-family: "League Spartan", sans-serif;
+  }
+  
+  .bg-unipin {
+    background-color: #ff962d;
+  }
