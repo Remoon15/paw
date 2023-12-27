@@ -16,7 +16,7 @@ export default function ComponentNavbar() {
           src="/logoRS.png"
         />
         <span className="self-center whitespace-nowrap text-2xl font-extrabold text-lime-400">
-          RoziStore
+          ReonStore
         </span>
       </Navbar.Brand>
       <div className="flex md:order-2 bg-white rounded-lg">
