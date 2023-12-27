@@ -5,7 +5,7 @@ const PrivacyPolicy = () => {
     <div className="text-center text-white font-bold">
     <h1>Kebijakan Privasi (Privacy Policy)</h1>
 
-    <p>Kami, tim WEBTOPUP ROZISTORE, sepenuhnya menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi yang Anda bagikan kepada kami. Kebijakan privasi ini dirancang untuk memberikan pemahaman yang jelas tentang bagaimana kami mengumpulkan, menggunakan, mengungkap, dan melindungi informasi pribadi Anda saat Anda menggunakan situs web kami.</p>
+    <p>Kami, tim WEBTOPUP ReonStore, sepenuhnya menghargai privasi Anda dan berkomitmen untuk melindungi data pribadi yang Anda bagikan kepada kami. Kebijakan privasi ini dirancang untuk memberikan pemahaman yang jelas tentang bagaimana kami mengumpulkan, menggunakan, mengungkap, dan melindungi informasi pribadi Anda saat Anda menggunakan situs web kami.</p>
 
     <h2>Informasi yang Kami Kumpulkan</h2>
 
@@ -43,7 +43,7 @@ const PrivacyPolicy = () => {
 
     <p>Kami berkomitmen untuk menjaga keamanan dan privasi data Anda dengan serius. Dengan menggunakan situs kami, Anda menyetujui dan memahami Kebijakan Privasi ini. Jika Anda memiliki pertanyaan atau kekhawatiran tentang perlindungan data Anda, jangan ragu untuk menghubungi kami melalui informasi kontak yang tersedia di situs kami.</p>
 
-    <p>Terima kasih telah memilih WEBTOPUP ROZISTORE sebagai pilihan Anda. Kami berharap Anda memiliki pengalaman yang menyenangkan dan aman saat menggunakan layanan kami.</p>
+    <p>Terima kasih telah memilih WEBTOPUP ReonStore sebagai pilihan Anda. Kami berharap Anda memiliki pengalaman yang menyenangkan dan aman saat menggunakan layanan kami.</p>
 </div>
   )
 }
