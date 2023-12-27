@@ -13,7 +13,7 @@ export default function ComponentFooter() {
             <Footer.Brand
               alt="Flowbite Logo"
               href="#"
-              name="RoziStore"
+              name="ReonStore"
               src="/logoRS.png"
             />
           </div>
