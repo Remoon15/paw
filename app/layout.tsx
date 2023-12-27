@@ -5,8 +5,8 @@ import { Analytics } from '@vercel/analytics/react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'RoziStore. -WebTopupTerpercaya',
-  description: 'Versi Beta 0.10.1',
+  title: 'ReonStore. -WebTopupTerpercaya',
+  description: 'Versi Beta',
   name: 'google-site-verification',
   content : 'X0udyrnZV8QGYUrrJzz55Ow5OZI9KTUPRU_Hvss_8J8'
 }
