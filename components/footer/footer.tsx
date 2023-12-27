@@ -24,7 +24,7 @@ export default function ComponentFooter() {
                 <Footer.Link href="#">
                   About US
                 </Footer.Link>
-                <Footer.Link href="https://fahrurrozi.vercel.app/">
+                <Footer.Link href="https://www.instagram/remoon15_">
                   My Portfolio
                 </Footer.Link>
               </Footer.LinkGroup>
@@ -56,7 +56,7 @@ export default function ComponentFooter() {
         <Footer.Divider />
         <div className="w-full sm:flex sm:items-center sm:justify-between">
           <Footer.Copyright
-            by="RoziStore™"
+            by="ReonStore™"
             href="#"
             year={2023}
           />
