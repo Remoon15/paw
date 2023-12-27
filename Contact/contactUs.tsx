@@ -3,7 +3,7 @@
 import { Button, Card } from "flowbite-react"
 
 export default function DukunganPelanggan() {
-    const Link = "http://wa.me/6288221574494?"
+    const Link = "http://wa.me/6285695487137?"
     return(
     <div className="mt-10">
            <div className="text-orange-400 text-xl text-center font-serif font-bold">Dukungan Pelanggan</div>
